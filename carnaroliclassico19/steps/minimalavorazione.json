@@ -1,8 +1,8 @@
 {
   "name: "minima lavorazione del terreno",
-  "description": "miscelatura dello strato superficiale del terreno per interrare i residui colturali"
+  "description": "miscelatura dello strato superficiale del terreno per interrare i residui colturali",
   "data": "20.10.2018",
-  "profondità massima": "15 cm "
+  "profondità massima": "15 cm ",
   "thumbnail": "https://domain.com/minimalavorazione_small.jpg",
   "image": "https://domain.com/minimalavorazione.jpg"
 }
