@@ -1,9 +1,10 @@
 {
   "name": "raccolta",
+  "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta.jpg",
+  "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta_small.jpg",
   "data": "2.10.2019",
   "quantità": "250 quintali di risone",
   "macchinari": "trebbia da riso - Claas, Lexion 570",
   "descrizione dello stato della pianta": "in piedi",
   "presenza brusone": "no",
-  "foto ": "http://www.cascinaboscofornasara.it/it/index.html"
 }
