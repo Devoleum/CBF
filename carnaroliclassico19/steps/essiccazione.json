@@ -1,6 +1,8 @@
 {
   "name": "essiccazione",
   "data": "3.10.2019",
+  "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione.jpg",
+  "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione_small.jpg",
   "momento della giornata": "notte",
   "macchinario": "essiccatorio a ricircolo con bruciatori a gas",
   "benefici essiccazione": "no fumi e minimi emissioni sul cereal, basse emissioni e assenza di residui di combustione sui chicchi",
