@@ -1,6 +1,8 @@
 {
   "name" : "minima lavorazione del terreno",
   "description": "miscelatura dello strato superficiale del terreno per interrare i residui colturali",
+  "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione.jpg",
+  "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione_small.jpg",
   "data": "20.10.2018",
   "profondità massima": "15 cm ",
   "thumbnail": "https://domain.com/minimalavorazione_small.jpg",
