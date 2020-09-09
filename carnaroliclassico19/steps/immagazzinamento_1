@@ -1,5 +1,7 @@
 {
   "name": "immagazzinamento",
+  "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_1.jpg",
+  "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_1_small.jpg",
   "data": "3.10.2019",
   "durata": "minimo 60 giorni",
   "silos": "silos di lamiera chiusi",
