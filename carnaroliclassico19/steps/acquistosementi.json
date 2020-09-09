@@ -1,5 +1,7 @@
 {
   "name": "acquisto sementi certificate",
+  "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/acquistosementi.jpg",
+  "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/acquistosementi_small.jpg",
   "data": "27.03.2019",
   "quantità": "2.000 kg ",
   "codice ente risi": "1819[V]0901300104",
