@@ -3,11 +3,11 @@
   "data": "3.10.2019",
   "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione.jpg",
   "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione_small.jpg",
-  "momento della giornata": "notte",
+  "momento_della_giornata": "notte",
   "macchinario": "essiccatorio a ricircolo con bruciatori a gas",
-  "benefici essiccazione": "no fumi e minimi emissioni sul cereal, basse emissioni e assenza di residui di combustione sui chicchi",
+  "benefici_essiccazione": "no fumi e minimi emissioni sul cereal, basse emissioni e assenza di residui di combustione sui chicchi",
   "temperature": "45 gradi (bassa temperatura)",
-  "umidità relativa di raccolta": "22%",
-  "umidità relativa del prodotto": "12,5 % (val. rif. <14%)",
-  "tempo di essiccazione": "11 ore"
+  "umidità_relativa_di_raccolta": "22%",
+  "umidità_relativa_del_prodotto": "12,5 % (val. rif. <14%)",
+  "tempo_di_essiccazione": "11 ore"
 }
