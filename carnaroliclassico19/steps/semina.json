@@ -3,8 +3,8 @@
   "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina.jpg",
   "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina_small.jpg",
   "data": "23.04.2019",
-  "ettari seminati": "9,24",
-  "coordinate gps dei campi": "marcitino 45.287887, 8.650113 / Stradone 45.288663, 8.647638",
-  "quantità di seme ": "2.000 kg",
+  "ettari_seminati": "9,24",
+  "coordinate_gps_dei_campi": "marcitino 45.287887, 8.650113 / Stradone 45.288663, 8.647638",
+  "quantità_di_seme ": "2.000 kg",
   "metodologia": "semina su pacciamatura verde"
 }
