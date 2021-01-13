@@ -1,1 +1,28 @@
-
+{
+  "multi_lang": true,
+  "section": "merchant_profile",
+  "en": {
+    "name": "Cascina Bosco Fornasara",
+    "description": "Carnaroli is a Superfine rice among the best known and renowned for its large, tapered and cooking-resistant grain which makes it perfect for risottos. The high amylose content makes the beans consistent and creamy, while ensuring excellent cooking resistance and high absorption capacity. Ours is the original Carnaroli, a delicate plant, predisposed to lodging and subject to critical periods during growth and maturation. Once it was a widespread crop, today it has been replaced by more resistant and productive ones, such as Carnise and Karnak, which can be sold under the commercial name Carnaroli, even if they do not have the same characteristics. On our packages you will find the words Carnaroli Classico which guarantees that they only contain Carnaroli rice from Carnaroli seeds.",
+    "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/cascinaboscof.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/cascinaboscof_small.jpg",
+    "website_url" : "https://www.cascinaboscofornasara.it/",
+    "network_name": "Coltivatori di Emozioni",
+    "network_link": "https://www.coltivatoridiemozioni.com/",
+    "network_description": "Coltivatori di Emozioni is an Italian Social Farming platform founded in 2016. On the occasion of the 2030 Agenda for Sustainable Development, it receives Green Pride 2018 as Best Practice for having conceived a new production cycle in support of the environment and local micro-economies. The network of Cultivators of Emotions is the meeting point between suppliers, non-profit associations, companies, public administrations, schools and consumers and works to guarantee support for small agricultural businesses: every production cycle generates employment, harvest after harvest we preserve traditions and pass on ancient wisdom of the trades to new farmers.",
+    "network_image": "https://raw.githubusercontent.com/Devoleum/CBF/master/cde.jpg",
+    "network_thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/cde_small.jpg"
+  },
+  "it": {
+    "name": "Cascina Bosco Fornasara",
+    "description": "Il Carnaroli è un riso Superfino tra i più conosciuti e rinomati per il suo granello grande, affusolato e resistente alla cottura che lo rende perfetto per i risotti. L’alto contenuto di amilosio rende i chicchi consistenti e cremosi, garantendo al contempo un’ottima tenuta della cottura e un’alta capacità di assorbimento. Il nostro è Carnaroli originale, una pianta delicata, predisposta all’allettamento e soggetta a periodi critici durante la crescita e la maturazione. Un tempo era una coltura diffusissima, oggi è stata sostituita da altre più resistenti e produttive, come Carnise e Karnak, che possono essere vendute col nome commerciale Carnaroli, pur non avendone le medesime caratteristiche. Sui nostri pacchetti troverete la dicitura Carnaroli Classico la quale garantisce che in essi si trovi soltanto riso Carnaroli da semente Carnaroli.",
+    "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/cascinaboscof.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/cascinaboscof_small.jpg",
+    "website_url" : "https://www.cascinaboscofornasara.it/",
+    "network_name": "Coltivatori di Emozioni",
+    "network_link": "https://www.coltivatoridiemozioni.com/",
+    "network_description": "Coltivatori di Emozioni è una piattaforma tutta italiana di Social Farming nata nel 2016. In occasione dell’Agenda 2030 per lo Sviluppo Sostenibile riceve il Green Pride 2018 come Best Practice per aver ideato un nuovo ciclo produttivo a sostegno dell’ambiente e delle microeconomie locali. La rete di Coltivatori di Emozioni costituisce il punto di incontro tra fornitori, associazioni noprofit, aziende, amministrazioni pubbliche, scuole e consumatori e opera per garantire sostegno alle piccole imprese agricole: ogni ciclo produttivo genera occupazione, raccolto dopo raccolto preserviamo le tradizioni e tramandiamo l’antica saggezza dei mestieri a nuovi contadini.",
+    "network_image": "https://raw.githubusercontent.com/Devoleum/CBF/master/cde.jpg",
+    "network_thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/cde_small.jpg"
+  }
+}
