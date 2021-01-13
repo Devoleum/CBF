@@ -1,0 +1,26 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Processing and packaging",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/trasformazioneconfezionamento.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/trasformazioneconfezionamento_small.jpg",
+    "quantity": "1400 kg",
+    "lotto": "robertomarinone02919s3",
+    "resulting_quantity": "695 kg",
+    "lotto_entrata": "25/11/2021",
+    "date": "25/11/2019",
+  },
+  "it": {
+    "name": "Trasformazione e confezionamento",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/trasformazioneconfezionamento.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/trasformazioneconfezionamento_small.jpg",
+    "quantità": "1400 kg",
+    "lotto": "robertomarinone02919s3",
+    "quantità_risultante": "695 kg",
+    "lotto_entrata": "25/11/2021",
+    "date": "25/11/2019",
+  }
+}
