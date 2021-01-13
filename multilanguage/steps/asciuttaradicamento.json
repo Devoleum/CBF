@@ -1,0 +1,20 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Asciutta di radicamento",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/asciuttaradicamento.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/asciuttaradicamento_small.jpg",
+      "date": "03/05/2019",
+      "duration": "10 days"
+    },
+    "it": {
+      "name": "Asciutta di radicamento",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/asciuttaradicamento.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/asciuttaradicamento_small.jpg",
+      "date": "03/05/2019",
+      "durata": "10 giorni"
+    }
+  }

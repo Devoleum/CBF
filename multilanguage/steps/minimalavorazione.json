@@ -1,0 +1,20 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Minimum tillage",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione_small.jpg",
+      "date": "20/10/2018",
+      "maximum_depth": "15 cm"
+    },
+    "it": {
+      "name": "Minima lavorazione del terreno",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/minimalavorazione_small.jpg",
+      "date": "20/10/2018",
+      "profondità_massima": "15 cm"
+    }
+  }

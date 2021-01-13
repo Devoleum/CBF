@@ -1,0 +1,26 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Harvesting",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta_small.jpg",
+      "quantity": "250 quintals of paddy rice",
+      "machinery": "rice thresher - Claas, Lexion 570",
+      "description_of_plant_status": "standing",
+      "presence_brusone": "no",
+      "date": "02/10/2019"
+    },
+    "it": {
+      "name": "Raccolta",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/raccolta_small.jpg",
+      "quantità": "250 quintali di risone",
+      "macchinari": "trebbia da riso - Claas, Lexion 570",
+      "descrizione_dello_stato_della_pianta": "in piedi",
+      "presenza_brusone": "no",
+      "date": "02/10/2019"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Sowing",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina_small.jpg",
+    "hectares_sown": "9,24",
+    "gps_coordinates_of_fields": "marcitino 45.287887, 8.650113 / Stradone 45.288663, 8.647638",
+    "quantity_of_seeds": "2.000 kg",
+    "methodology": "sowing on green mulch",
+    "date": "23/04/2019"
+  },
+  "it": {
+    "name": "Semina",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/semina_small.jpg",
+    "ettari_seminati": "9,24",
+    "coordinate_gps_dei_campi": "marcitino 45.287887, 8.650113 / Stradone 45.288663, 8.647638",
+    "quantità_di_seme ": "2.000 kg",
+    "metodologia": "semina su pacciamatura verde",
+    "date": "23/04/2019"
+  }
+}

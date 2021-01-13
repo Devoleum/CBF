@@ -1,0 +1,30 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Drying",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione_small.jpg",
+    "time_of_day": "night",
+    "machinery": "recirculating dryer with gas burners",
+    "benefits_drying": "no fumes and minimum emissions on the cereal, low emissions and no combustion residues on the grains",
+    "temperature": "45 degrees (low temperature)",
+    "collection_humidity": "22%",
+    "product_humidity": "12,5 % (val. rif. <14%)",
+    "drying_time": "11 hours",
+    "date": "03/10/2019"
+  },
+  "it": {
+    "name": "Essiccazione",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/essiccazione_small.jpg",
+    "momento_della_giornata": "notte",
+    "macchinario": "essiccatorio a ricircolo con bruciatori a gas",
+    "benefici_essiccazione": "no fumi e minimi emissioni sul cereal, basse emissioni e assenza di residui di combustione sui chicchi",
+    "temperature": "45 gradi (bassa temperatura)",
+    "umidità_relativa_di_raccolta": "22%",
+    "umidità_relativa_del_prodotto": "12,5 % (val. rif. <14%)",
+    "tempo_di_essiccazione": "11 ore",
+    "date": "03/10/2019"
+  }

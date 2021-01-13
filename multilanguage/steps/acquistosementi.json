@@ -6,11 +6,11 @@
     "description": "",
     "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/acquistosementi.jpg",
     "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/acquistosementi_small.jpg",
-    "quantità": "2.000 kg",
+    "quantity": "2.000 kg",
     "codice_ente_risi": "1819[V]0901300104",
-    "azienda_fornitrice": "Sardo Piemontese Sementi Società Cooperativa Soc. Agricola",
-    "tipologia_sementi": "Risone da seme Carnaroli",
-    "firma_digitale_del_certificato_di_acquisto": "34b7a702eaf72d68d5d67addb0f9f104",
+    "company_supplier": "Sardo Piemontese Sementi Società Cooperativa Soc. Agricola",
+    "type_seeds": "Risone da seme Carnaroli",
+    "digital_signature_of_the_certificate_of_ purchase": "34b7a702eaf72d68d5d67addb0f9f104",
     "date": "27/03/2019"
   },
   "it": {

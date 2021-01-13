@@ -1,0 +1,20 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Sowing grass",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/seminaerbaio.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/seminaerbaio_small.jpg",
+    "date": "24/10/2019",
+    "variety_and_species": "oats, hairy vetch, sativa vetch"
+  },
+  "it": {
+    "name": "Semina dell'erbaio",
+    "description": "",
+    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/seminaerbaio.jpg",
+    "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/seminaerbaio_small.jpg",
+    "date": "24/10/2019",
+    "varietà_e_specie": "avena, veccia villosa, veccia sativa"
+  }
+}

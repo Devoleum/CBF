@@ -1,0 +1,20 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Storage",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_2.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_2_small.jpg",
+      "temperature": "16 - 18 degrees",
+      "materials_store": "green building, natural lime and wood husk reeds"
+    },
+    "it": {
+      "name": "Immagazzinamento",
+      "description": "",
+      "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_2.jpg",
+      "thumbnail": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/steps/img/immagazzinamento_2_small.jpg",
+      "temperature": "16 - 18 gradi",
+      "materiali_magazzino": "bioedilizia, calce naturale e lolla legno cannette palustri"
+    }
+  }
