@@ -4,15 +4,15 @@
   "en": {
     "name": "Carnaroli Classico 2021",
     "description": "Carnaroli is a Superfine rice among the best known and renowned for its large, tapered and cooking-resistant grain which makes it perfect for risottos. The high amylose content makes the beans consistent and creamy, while ensuring excellent cooking resistance and high absorption capacity. Ours is the original Carnaroli, a delicate plant, predisposed to lodging and subject to critical periods during growth and maturation. Once it was a widespread crop, today it has been replaced by more resistant and productive ones, such as Carnise and Karnak, which can be sold under the commercial name Carnaroli, even if they do not have the same characteristics. On our packages you will find the words Carnaroli Classico which guarantees that they only contain Carnaroli rice from Carnaroli seeds.",
-    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/carnaroli19.jpg",
-    "thumbnail" : "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/carnaroli19_small.jpg",
+    "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+    "thumbnail" : "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
     "date": ""
   },
   "it": {
     "name": "Filiera produttiva Carnaroli Classico 2021",
     "description": "Il Carnaroli è un riso Superfino tra i più conosciuti e rinomati per il suo granello grande, affusolato e resistente alla cottura che lo rende perfetto per i risotti. L’alto contenuto di amilosio rende i chicchi consistenti e cremosi, garantendo al contempo un’ottima tenuta della cottura e un’alta capacità di assorbimento. Il nostro è Carnaroli originale, una pianta delicata, predisposta all’allettamento e soggetta a periodi critici durante la crescita e la maturazione. Un tempo era una coltura diffusissima, oggi è stata sostituita da altre più resistenti e produttive, come Carnise e Karnak, che possono essere vendute col nome commerciale Carnaroli, pur non avendone le medesime caratteristiche. Sui nostri pacchetti troverete la dicitura Carnaroli Classico la quale garantisce che in essi si trovi soltanto riso Carnaroli da semente Carnaroli.",
-    "image": "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/carnaroli19.jpg",
-    "thumbnail" : "https://github.com/Devoleum/CBF/raw/master/carnaroliclassico19/carnaroli19_small.jpg",
+    "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+    "thumbnail" : "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
     "date": ""
   }
 }
