@@ -1,0 +1,18 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Ground leveling with laser-controlled level",
+      "description": "Leveling of the soil in order to carry out the subsequent processing of spontaneous grass control and submersion in an optimal manner",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "30/03/2021"
+    },
+    "it": {
+      "name": "Livellamento terreno con livella a comando laser",
+      "description": "Livellamento del terreno in maniera da poter eseguire le successive lavorazioni di controllo delle erbe spontanee e la sommersione in maniera ottimale",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "30/03/2021"
+    }
+  }

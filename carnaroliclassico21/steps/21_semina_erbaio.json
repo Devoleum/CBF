@@ -1,0 +1,21 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Sowing grass",
+      "description": "Weeds have the purpose of keeping the soil covered and protected from erosion, fixing nutrients and creating organic substance that will turn into humus",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "12/10/2020",
+      "variety_and_species": "oats, hairy vetch, rapeseed"
+    },
+    "it": {
+      "name": "Semina dell'erbaio",
+      "description": "Gli erbai hanno lo scopo di mantenere il terreno coperto e protetto dall’erosione, fissare sostanze nutritive e creare sostanza organica che si tramuterà in humus",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "12/10/2020",
+      "varietà_e_specie": "avena, veccia villosa, colza"
+    }
+  }
+  

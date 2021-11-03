@@ -1,0 +1,20 @@
+{
+    "multi_lang": true,
+    "section": "step",
+    "en": {
+      "name": "Surface plowing",
+      "description": "It is used to bury green manure herbs and crop residues",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "26/03/2021",
+      "maximum_working_depth": "20 cm"
+    },
+    "it": {
+      "name": "Aratura superficiale",
+      "description": "Serve ad interrare le erbe del sovescio e i residui colturali",
+      "image": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "thumbnail": "https://raw.githubusercontent.com/Devoleum/CBF/master/carnaroliclassico21/2021.png",
+      "date": "26/03/2021",
+      "profondità_massima_di_lavorazione": "20 cm"
+    }
+  }
